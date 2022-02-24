@@ -242,8 +242,8 @@
 
 	<!--  from version 1.9.0  -->
 	<system:String x:Key="Words.Project">项目</system:String>
-	<system:String x:Key="Words.Bucket">Bucket</system:String>
-	<system:String x:Key="Words.Tenant">Tenant</system:String>
+	<system:String x:Key="Words.Bucket">存储空间</system:String>
+	<system:String x:Key="Words.Tenant">租户</system:String>
 	<system:String x:Key="Words.Subscription">订阅</system:String>
 	<system:String x:Key="Words.Community">社区</system:String>
 	<system:String x:Key="Words.Document">文档</system:String>
@@ -312,7 +312,7 @@
 	<system:String x:Key="Words.Export">导出</system:String>
 	<system:String x:Key="Words.ProcessMonitor">进程监视器</system:String>
 
-	<system:String x:Key="Account.Endpoint">Endpoint</system:String>
+	<system:String x:Key="Account.Endpoint">末端</system:String>
 	<system:String x:Key="GoogleDrive.SharedDrives">共享的驱动器</system:String>
 
 	<system:String x:Key="Words.Reading">读取中</system:String>
